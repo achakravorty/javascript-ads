@@ -31,7 +31,7 @@ function whatIsInAName(collection, source) {
             }
         }
         return true;
-    })
+    });
     return resultArr;
 }
 
