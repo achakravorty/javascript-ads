@@ -22,7 +22,7 @@ function urlSlug(title) {
     // const arr = lowerTitle.split(/\W/);
     // return arr.join("-");
 
-    return title.toLowerCase().trim().split(/\W/).join("-");
+    return title.toLowerCase().trim().split(/\s+/).join("-");
 
 }
 // Only change code above this line
