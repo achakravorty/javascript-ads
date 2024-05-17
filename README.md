@@ -16,7 +16,7 @@ To view my solutions and explore the code, simply navigate to the respective pro
 
 ## Certification
 
-!(Legacy-JavaScript-Algorithms-and-Data-Structures-Certification.png)
+![alt text](Legacy-JavaScript-Algorithms-and-Data-Structures-Certification.png)
 
 ## Resources
 
