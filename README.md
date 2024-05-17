@@ -14,6 +14,10 @@ Welcome to my repository for the [Legacy JavaScript Algorithms and Data Structur
 
 To view my solutions and explore the code, simply navigate to the respective project folders in this repository.
 
+## Certification
+
+!(Legacy-JavaScript-Algorithms-and-Data-Structures-Certification.png)
+
 ## Resources
 
 * [freeCodeCamp](https://www.freecodecamp.org/): Visit the official freeCodeCamp website to learn more about their courses and coding challenges.
