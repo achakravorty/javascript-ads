@@ -1,4 +1,5 @@
 // Make a Person
+// https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/make-a-person
 
 const Person = function(first, last) {
     let firstName = first;

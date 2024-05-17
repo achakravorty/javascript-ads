@@ -1,4 +1,5 @@
 // Smallest Common Multiple
+// https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/smallest-common-multiple
 
 function smallestCommons(arr) {
     const [min, max] = arr.sort((a, b) => a - b);

@@ -1,4 +1,5 @@
 // Pig Latin
+// https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures
 
 /*
 Pig Latin is a way of altering English Words. The rules are as follows:

@@ -1,4 +1,5 @@
 // Search and Replace
+// https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/search-and-replace
 
 function myReplace(str, before, after) {
     if(before[0] == before[0].toLowerCase()) {

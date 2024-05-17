@@ -1,4 +1,5 @@
 // Arguments Optional
+// https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/arguments-optional
 
 function addTogether() {
     const [first, second] = arguments;

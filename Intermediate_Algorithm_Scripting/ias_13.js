@@ -1,4 +1,5 @@
 // Sum All Primes
+// https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/sum-all-primes
 
 function sumPrimes(num) {
     let primeArr=[];

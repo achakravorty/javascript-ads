@@ -1,4 +1,5 @@
 // Binary Agents
+// https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/binary-agents
 
 function binaryAgent(str) {
 

@@ -1,5 +1,5 @@
 // Sum All Odd Fibonacci Numbers
-
+// https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/sum-all-odd-fibonacci-numbers
 
 function sumFibs(num) {
 

@@ -1,4 +1,5 @@
 // Spinal Tap Case
+// https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/spinal-tap-case
 
 function spinalCase(str) {
     // First, split the string by spaces and underscores

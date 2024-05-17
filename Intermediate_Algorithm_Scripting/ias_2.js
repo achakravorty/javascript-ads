@@ -1,4 +1,5 @@
 // Diff Two Arrays
+// https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/diff-two-arrays
 
 /*
 Compare two arrays and return a new array with any items only found in 

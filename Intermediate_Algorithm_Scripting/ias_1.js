@@ -1,5 +1,5 @@
 // Sum All Numbers in a Range
-
+// https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/sum-all-numbers-in-a-range
 function sumAll(arr) {
     arr.sort(function compareNumbers(a, b) {
         return a - b;

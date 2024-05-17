@@ -1,4 +1,7 @@
 // Seek and Destroy
+
+// https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/seek-and-destroy
+ 
 /*
 You will be provided with an initial array as the first argument to the destroyer function, 
 followed by one or more arguments. Remove all elements from the initial array that are of 
